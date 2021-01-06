@@ -24,3 +24,5 @@ Règles pour se déplacer :
     "g" pour gauche
     "d" pour droite
     "m" pour menu
+
+À vous de jouer !
