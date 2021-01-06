@@ -28,18 +28,4 @@ Attention : il faut lancer le jeu sur un terminal qui accepte les caractères UT
 - "d" pour droite
 - "m" pour menu
 
-## Screens du jeu 
-
-- Commencer Une Partie
-
-<img src="screens/1-CommencerUnePartie.png" alt="CommencerUnePartie"/>
-
-- Partie En Cours
-
-<img src="screens/2-PartieEnCours.png" alt="PartieEnCours"/>
-
-- Partie Terminée
-
-<img src="screens/3-PartieTerminée.png" alt="PartieTerminée"/>
-
 À vous de jouer !
